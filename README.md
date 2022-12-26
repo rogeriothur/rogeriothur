@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Sicredi**
 
-- 🌱 I’m currently learning **Google Sheets and DataViz**
+- 🌱 I’m currently learning **more about SQL and Data Analytics**
 
 - 👨‍💻 All of my projects are available at [coming soon](coming soon)
 
