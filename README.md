@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arthur Rogério</h1>
 <h3 align="center">I love the data area because of a phrase that says: "Anything that can be measured, can be improved".</h3>
 
-- 🔭 I’m currently working at **Sicredi**
+- 🔭 I’m currently working at **Indicium**
 
-- 🌱 I’m currently learning **more about SQL and Data Analytics**
+- 🌱 I’m currently learning **more about SQL, dbt and Snowflake**
 
 - 👨‍💻 All of my projects are available at [coming soon](coming soon)
 
