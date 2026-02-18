@@ -1,19 +1,24 @@
 <h1 align="center">Hi 👋, I'm Arthur Rogério</h1>
 <h3 align="center">I love the data area because of a phrase that says: "Anything that can be measured, can be improved".</h3>
 
-- 🔭 I’m currently working at **Indicium**
+Data & Analytics Engineer with 4+ years of experience in designing scalable data architectures and robust ETL/ELT pipelines using dbt, SQL, Python, Snowflake and Databricks.
+Proven track record automating complex workflows, improving operational efficiency and ensuing data quality in production environments.
+Skilled in data modeling and bridging technical complexity with business needs, delivering reliable data solutions for cross-functional stakeholders.
 
-- 🌱 I’m currently learning **more about SQL, dbt and Snowflake**
+Certifications:
+- Astronomer: Airflow Fundamentals and DAG Authoring
+- Databricks: Certified Databricks Data Analyst Associate
+- dbt Labs: dbt Certified Developer
+- Microsoft: Azure Fundamentals and Azure Data Fundamentals
+- Snowflake: SnowPro Core and SnowPro Advanced Data Engineer
 
 - 👨‍💻 All of my projects are available at [coming soon](coming soon)
 
 - 📝 I write articles on [https://medium.com/@rogerio_thur](https://medium.com/@rogerio_thur)
 
-- 💬 Ask me about **Python focused on data analysis**
-
 - 📫 How to reach me **arthurogeiro800@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arthur-rogerio-ds/](https://www.linkedin.com/in/arthur-rogerio-ds/)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/rogeriothur/)
 
 - ⚡ Fun fact **I wake up at 5 am**
 
